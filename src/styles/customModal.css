@@ -1,0 +1,63 @@
+.modal_container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #101315;
+    overflow: hidden;
+}
+
+
+
+.backdrop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background: #000000e1;
+    display: flex;
+    align-items: center;
+}
+
+.modal {
+    width: clamp(50%, 700px, 90%);
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.2rem;
+    border-radius: 1rem;
+    margin: auto;
+}
+
+@keyframes zoom-in {
+    0% {
+        scale: 0
+    }
+
+    50% {
+        scale: 0.75
+    }
+
+    100% {
+        scale: 1
+    }
+}
+
+@keyframes zoom-out {
+    0% {
+        scale: 1
+    }
+
+    50% {
+        scale: 0.5
+    }
+
+    100% {
+        scale: 0
+    }
+}

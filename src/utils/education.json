@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "No formal education",
+        "used": 0
+    },
+    {
+        "id": 2,
+        "title": "Primary education",
+        "used": 0
+    },
+    {
+        "id": 3,
+        "title": "Secondary education",
+        "used": 0
+    },
+    {
+        "id": 4,
+        "title": "Vocational qualification",
+        "used": 0
+    },
+    {
+        "id": 5,
+        "title": "Bachelor's degree",
+        "used": 0
+    },
+    {
+        "id": 6,
+        "title": "Master's degree",
+        "used": 0
+    },
+    {
+        "id": 7,
+        "title": "Doctorate or higher",
+        "used": 0
+    }
+]

@@ -1,0 +1,410 @@
+[
+    {
+        "basicDetails": {
+            "firstName": "harshal",
+            "lastName": "kahar",
+            "designation": "fulkl stack developerA",
+            "address": "L.D. College of engineering,ahmedabad",
+            "email": "harshal390@gmail.com",
+            "phone": "9537407968",
+            "city": "Navsari",
+            "zipcode": "396445",
+            "dateOfBirth": "2024-07-16",
+            "state": "Gujarat",
+            "gender": "male",
+            "relationshipStatus": "single"
+        },
+        "educationDetails": {
+            "SSC RESULTS": {
+                "nameOfBoard": "GSEB",
+                "passingYear": "2024",
+                "percentage": "85%"
+            },
+            "HSC/DIPLOMA RESULTS": {
+                "nameOfBoard": "GSEB",
+                "passingYear": "2021",
+                "percentage": "95%"
+            },
+            "BACHLORE DEGREE": {
+                "nameOfBoard": "GSEB",
+                "passingYear": "2021",
+                "percentage": "95%"
+            },
+            "MASTER DEGREE": {
+                "nameOfBoard": "GSEB",
+                "passingYear": "2022",
+                "percentage": "74%"
+            }
+        },
+        "workExperience": {
+            "1": {
+                "companyName": "Esparkbiz",
+                "designation": "Full Stack Developer",
+                "from": "2024-07-02",
+                "to": "2024-07-02",
+                "skills": [
+                    "HTML",
+                    "CSS",
+                    "JAVASCRIPT",
+                    "REACTJS",
+                    "NEXTJS"
+                ]
+            },
+            "2": {
+                "companyName": "Esparkbiz 2",
+                "designation": "Mern stack developer",
+                "from": "2024-07-02",
+                "to": "2024-07-02",
+                "skills": [
+                    "MONGODB",
+                    "EXPRESSJS",
+                    "REACTJS",
+                    "NEXTJS",
+                    "MYSQL"
+                ]
+            },
+            "3": {
+                "companyName": "Hecta Info tech",
+                "designation": "reactjs developer",
+                "from": "2024-07-02",
+                "to": "2024-07-02",
+                "skills": [
+                    "REACTJS",
+                    "HTML",
+                    "CSS",
+                    "NEXTJS",
+                    "MY SQL",
+                    "TAILWIND CSS"
+                ]
+            }
+        },
+        "languages": {
+            "hindi": {
+                "read": 1,
+                "write": 1,
+                "speak": 1
+            },
+            "english": {
+                "read": 1,
+                "write": 1,
+                "speak": 1
+            },
+            "gujarati": {
+                "read": 1,
+                "write": 1,
+                "speak": 1
+            }
+        },
+        "techStack": {
+            "mysql": {
+                "level": "mideator"
+            },
+            "nodejs": {
+                "level": "beginer"
+            },
+            "expressjs": {
+                "level": "beginer"
+            },
+            "reactjs": {
+                "level": "mideator"
+            }
+        },
+        "referenceContact": {
+            "1": {
+                "personName": "Person 21",
+                "contactNo": "9537407968",
+                "relationship": "relation"
+            },
+            "2": {
+                "personName": "person 2 ",
+                "contactNo": "9537407968",
+                "relationship": "relation 2"
+            },
+            "3": {
+                "personName": "person 3 ",
+                "contactNo": "9537407968",
+                "relationship": "relation"
+            }
+        },
+        "preference": {
+            "location": "surat",
+            "noticePeriod": "25 DAYS",
+            "expectedCTC": "600000",
+            "currentCTC": "420000",
+            "department": "designing"
+        },
+        "id": 0
+    },
+    {
+        "basicDetails": {
+            "firstName": "harshal",
+            "lastName": "kahar",
+            "designation": "fulkl stack developerA",
+            "address": "L.D. College of engineering,ahmedabad",
+            "email": "harshal390@gmail.com",
+            "phone": "9537407968",
+            "city": "Navsari",
+            "zipcode": "396445",
+            "dateOfBirth": "2024-07-16",
+            "state": "Gujarat",
+            "gender": "male",
+            "relationshipStatus": "single"
+        },
+        "educationDetails": {
+            "SSC RESULTS": {
+                "nameOfBoard": "GSEB",
+                "passingYear": "2024",
+                "percentage": "85%"
+            },
+            "HSC/DIPLOMA RESULTS": {
+                "nameOfBoard": "GSEB",
+                "passingYear": "2021",
+                "percentage": "95%"
+            },
+            "BACHLORE DEGREE": {
+                "nameOfBoard": "GSEB",
+                "passingYear": "2021",
+                "percentage": "95%"
+            },
+            "MASTER DEGREE": {
+                "nameOfBoard": "GSEB",
+                "passingYear": "2022",
+                "percentage": "74%"
+            }
+        },
+        "workExperience": {
+            "1": {
+                "companyName": "Esparkbiz",
+                "designation": "Full Stack Developer",
+                "from": "2024-07-02",
+                "to": "2024-07-02",
+                "skills": [
+                    "HTML",
+                    "CSS",
+                    "JAVASCRIPT",
+                    "REACTJS",
+                    "NEXTJS"
+                ]
+            },
+            "2": {
+                "companyName": "Esparkbiz 2",
+                "designation": "Mern stack developer",
+                "from": "2024-07-02",
+                "to": "2024-07-02",
+                "skills": [
+                    "MONGODB",
+                    "EXPRESSJS",
+                    "REACTJS",
+                    "NEXTJS",
+                    "MYSQL"
+                ]
+            },
+            "3": {
+                "companyName": "Hecta Info tech",
+                "designation": "reactjs developer",
+                "from": "2024-07-02",
+                "to": "2024-07-02",
+                "skills": [
+                    "REACTJS",
+                    "HTML",
+                    "CSS",
+                    "NEXTJS",
+                    "MY SQL",
+                    "TAILWIND CSS"
+                ]
+            }
+        },
+        "languages": {
+            "hindi": {
+                "read": 1,
+                "write": 1,
+                "speak": 1
+            },
+            "english": {
+                "read": 1,
+                "write": 1,
+                "speak": 1
+            },
+            "gujarati": {
+                "read": 1,
+                "write": 1,
+                "speak": 1
+            }
+        },
+        "techStack": {
+            "mysql": {
+                "level": "mideator"
+            },
+            "nodejs": {
+                "level": "beginer"
+            },
+            "expressjs": {
+                "level": "beginer"
+            },
+            "reactjs": {
+                "level": "mideator"
+            }
+        },
+        "referenceContact": {
+            "1": {
+                "personName": "Person 21",
+                "contactNo": "9537407968",
+                "relationship": "relation"
+            },
+            "2": {
+                "personName": "person 2 ",
+                "contactNo": "9537407968",
+                "relationship": "relation 2"
+            },
+            "3": {
+                "personName": "person 3 ",
+                "contactNo": "9537407968",
+                "relationship": "relation"
+            }
+        },
+        "preference": {
+            "location": "surat",
+            "noticePeriod": "25 DAYS",
+            "expectedCTC": "600000",
+            "currentCTC": "420000",
+            "department": "designing"
+        },
+        "id": 1
+    },
+    {
+        "basicDetails": {
+            "firstName": "harshal",
+            "lastName": "kahar",
+            "designation": "fulkl stack developerA",
+            "address": "L.D. College of engineering,ahmedabad",
+            "email": "harshal390@gmail.com",
+            "phone": "9537407968",
+            "city": "Navsari",
+            "zipcode": "396445",
+            "dateOfBirth": "2024-07-16",
+            "state": "Gujarat",
+            "gender": "male",
+            "relationshipStatus": "single"
+        },
+        "educationDetails": {
+            "SSC RESULTS": {
+                "nameOfBoard": "GSEB",
+                "passingYear": "2024",
+                "percentage": "85%"
+            },
+            "HSC/DIPLOMA RESULTS": {
+                "nameOfBoard": "GSEB",
+                "passingYear": "2021",
+                "percentage": "95%"
+            },
+            "BACHLORE DEGREE": {
+                "nameOfBoard": "GSEB",
+                "passingYear": "2021",
+                "percentage": "95%"
+            },
+            "MASTER DEGREE": {
+                "nameOfBoard": "GSEB",
+                "passingYear": "2022",
+                "percentage": "74%"
+            }
+        },
+        "workExperience": {
+            "1": {
+                "companyName": "Esparkbiz",
+                "designation": "Full Stack Developer",
+                "from": "2024-07-02",
+                "to": "2024-07-02",
+                "skills": [
+                    "HTML",
+                    "CSS",
+                    "JAVASCRIPT",
+                    "REACTJS",
+                    "NEXTJS"
+                ]
+            },
+            "2": {
+                "companyName": "Esparkbiz 2",
+                "designation": "Mern stack developer",
+                "from": "2024-07-02",
+                "to": "2024-07-02",
+                "skills": [
+                    "MONGODB",
+                    "EXPRESSJS",
+                    "REACTJS",
+                    "NEXTJS",
+                    "MYSQL"
+                ]
+            },
+            "3": {
+                "companyName": "Hecta Info tech",
+                "designation": "reactjs developer",
+                "from": "2024-07-02",
+                "to": "2024-07-02",
+                "skills": [
+                    "REACTJS",
+                    "HTML",
+                    "CSS",
+                    "NEXTJS",
+                    "MY SQL",
+                    "TAILWIND CSS"
+                ]
+            }
+        },
+        "languages": {
+            "hindi": {
+                "read": 1,
+                "write": 1,
+                "speak": 1
+            },
+            "english": {
+                "read": 1,
+                "write": 1,
+                "speak": 1
+            },
+            "gujarati": {
+                "read": 1,
+                "write": 1,
+                "speak": 1
+            }
+        },
+        "techStack": {
+            "mysql": {
+                "level": "mideator"
+            },
+            "nodejs": {
+                "level": "beginer"
+            },
+            "expressjs": {
+                "level": "beginer"
+            },
+            "reactjs": {
+                "level": "mideator"
+            }
+        },
+        "referenceContact": {
+            "1": {
+                "personName": "Person 21",
+                "contactNo": "9537407968",
+                "relationship": "relation"
+            },
+            "2": {
+                "personName": "person 2 ",
+                "contactNo": "9537407968",
+                "relationship": "relation 2"
+            },
+            "3": {
+                "personName": "person 3 ",
+                "contactNo": "9537407968",
+                "relationship": "relation"
+            }
+        },
+        "preference": {
+            "location": "surat",
+            "noticePeriod": "25 DAYS",
+            "expectedCTC": "600000",
+            "currentCTC": "420000",
+            "department": "designing"
+        },
+        "id": 2
+    }
+]

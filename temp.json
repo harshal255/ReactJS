@@ -1,0 +1,307 @@
+
+    [
+        {
+            "basicDetails": {
+                "firstName": "Harshal ",
+                "lastName": "Kahar",
+                "designation": "Full Stack Developer",
+                "address": "L.D. College of Engineering,Ahmedabad",
+                "email": "harshalskahru830@gmail.com",
+                "phone": "9537407968",
+                "city": "Navsari",
+                "zipcode": "398466",
+                "dateOfBirth": "2024-06-20",
+                "state": "maharashtra",
+                "gender": "male",
+                "relationshipStatus": "single"
+            },
+            "educationDetails": {
+                "SSC RESULTS": {
+                    "nameOfBoard": "GSEB",
+                    "passingYear": "2002",
+                    "percentage": "85%"
+                },
+                "HSC/DIPLOMA RESULTS": {
+                    "nameOfBoard": "GSEB",
+                    "passingYear": "GSEB",
+                    "percentage": "78%"
+                },
+                "BACHLORE DEGREE": {
+                    "nameOfBoard": "GSEB",
+                    "passingYear": "GSEB",
+                    "percentage": "78%"
+                },
+                "MASTER DEGREE": {
+                    "nameOfBoard": "",
+                    "passingYear": "",
+                    "percentage": ""
+                }
+            },
+            "workExperience": {
+                "1": {
+                    "companyName": "Esparkbiz 1",
+                    "designation": "full stack developer",
+                    "from": "2024-06-29",
+                    "to": "2024-06-24"
+                },
+                "2": {
+                    "companyName": "Esparkbiz 2",
+                    "designation": "mern stack developer",
+                    "from": "2024-06-13",
+                    "to": "2024-06-07"
+                }
+            },
+            "languages": {
+                "hindi": {
+                    "read": 1,
+                    "write": 1,
+                    "speak": 1
+                },
+                "english": {
+                    "read": 1,
+                    "write": 1,
+                    "speak": 1
+                },
+                "gujarati": {
+                    "read": 1,
+                    "write": 1,
+                    "speak": 1
+                }
+            },
+            "techStack": {
+                "mysql": {
+                    "level": "expert"
+                },
+                "nodejs": {
+                    "level": "mideator"
+                },
+                "expressjs": {
+                    "level": "beginer"
+                },
+                "reactjs": {
+                    "level": "beginer"
+                }
+            },
+            "referenceContact": {
+                "1": {
+                    "personName": "person 1 ",
+                    "contactNo": "9537407998",
+                    "relationship": "relation"
+                },
+                "2": {
+                    "personName": "person 2 ",
+                    "contactNo": "9537407968",
+                    "relationship": "relation"
+                }
+            },
+            "preference": {
+                "location": "ahmedabad",
+                "noticePeriod": "25 days",
+                "expectedCTC": "600000",
+                "currentCTC": "420000",
+                "department": "designing"
+            },
+            "id": 1
+        },
+        {
+            "basicDetails": {
+                "firstName": "Harshal ",
+                "lastName": "Kahar 2",
+                "designation": "Full Stack Developer",
+                "address": "L.D. College of Engineering,Ahmedabad",
+                "email": "harshalskahru830@gmail.com",
+                "phone": "9537407968",
+                "city": "Navsari",
+                "zipcode": "398466",
+                "dateOfBirth": "2024-06-20",
+                "state": "maharashtra",
+                "gender": "male",
+                "relationshipStatus": "single"
+            },
+            "educationDetails": {
+                "SSC RESULTS": {
+                    "nameOfBoard": "GSEB",
+                    "passingYear": "2002",
+                    "percentage": "85%"
+                },
+                "HSC/DIPLOMA RESULTS": {
+                    "nameOfBoard": "GSEB",
+                    "passingYear": "GSEB",
+                    "percentage": "78%"
+                },
+                "BACHLORE DEGREE": {
+                    "nameOfBoard": "GSEB",
+                    "passingYear": "GSEB",
+                    "percentage": "78%"
+                },
+                "MASTER DEGREE": {
+                    "nameOfBoard": "",
+                    "passingYear": "",
+                    "percentage": ""
+                }
+            },
+            "workExperience": {
+                "1": {
+                    "companyName": "Esparkbiz 1",
+                    "designation": "full stack developer",
+                    "from": "2024-06-29",
+                    "to": "2024-06-24"
+                },
+                "2": {
+                    "companyName": "Esparkbiz 2",
+                    "designation": "mern stack developer",
+                    "from": "2024-06-13",
+                    "to": "2024-06-07"
+                }
+            },
+            "languages": {
+                "hindi": {
+                    "read": 1,
+                    "write": 1,
+                    "speak": 1
+                },
+                "english": {
+                    "read": 1,
+                    "write": 1,
+                    "speak": 1
+                },
+                "gujarati": {
+                    "read": 1,
+                    "write": 1,
+                    "speak": 1
+                }
+            },
+            "techStack": {
+                "mysql": {
+                    "level": "expert"
+                },
+                "nodejs": {
+                    "level": "mideator"
+                },
+                "expressjs": {
+                    "level": "beginer"
+                },
+                "reactjs": {
+                    "level": "beginer"
+                }
+            },
+            "referenceContact": {
+                "1": {
+                    "personName": "person 1 ",
+                    "contactNo": "9537407998",
+                    "relationship": "relation"
+                }
+            },
+            "preference": {
+                "location": "ahmedabad",
+                "noticePeriod": "25 days",
+                "expectedCTC": "600000",
+                "currentCTC": "420000",
+                "department": "designing"
+            },
+            "id": "2"
+        },
+        {
+            "basicDetails": {
+                "firstName": "Harshal ",
+                "lastName": "Kahar",
+                "designation": "Full Stack Developer",
+                "address": "L.D. College of Engineering,Ahmedabad",
+                "email": "harshalskahru830@gmail.com",
+                "phone": "9537407968",
+                "city": "Navsari",
+                "zipcode": "398466",
+                "dateOfBirth": "2024-06-20",
+                "state": "maharashtra",
+                "gender": "male",
+                "relationshipStatus": "single"
+            },
+            "educationDetails": {
+                "SSC RESULTS": {
+                    "nameOfBoard": "GSEB",
+                    "passingYear": "2002",
+                    "percentage": "85%"
+                },
+                "HSC/DIPLOMA RESULTS": {
+                    "nameOfBoard": "GSEB",
+                    "passingYear": "GSEB",
+                    "percentage": "78%"
+                },
+                "BACHLORE DEGREE": {
+                    "nameOfBoard": "GSEB",
+                    "passingYear": "GSEB",
+                    "percentage": "78%"
+                },
+                "MASTER DEGREE": {
+                    "nameOfBoard": "",
+                    "passingYear": "",
+                    "percentage": ""
+                }
+            },
+            "workExperience": {
+                "1": {
+                    "companyName": "Esparkbiz 1",
+                    "designation": "full stack developer",
+                    "from": "2024-06-29",
+                    "to": "2024-06-24"
+                },
+                "2": {
+                    "companyName": "Esparkbiz 2",
+                    "designation": "mern stack developer",
+                    "from": "2024-06-13",
+                    "to": "2024-06-07"
+                }
+            },
+            "languages": {
+                "hindi": {
+                    "read": 1,
+                    "write": 1,
+                    "speak": 1
+                },
+                "english": {
+                    "read": 1,
+                    "write": 1,
+                    "speak": 1
+                },
+                "gujarati": {
+                    "read": 1,
+                    "write": 1,
+                    "speak": 1
+                }
+            },
+            "techStack": {
+                "mysql": {
+                    "level": "expert"
+                },
+                "nodejs": {
+                    "level": "mideator"
+                },
+                "expressjs": {
+                    "level": "beginer"
+                },
+                "reactjs": {
+                    "level": "beginer"
+                }
+            },
+            "referenceContact": {
+                "1": {
+                    "personName": "person 1 ",
+                    "contactNo": "9537407998",
+                    "relationship": "relation"
+                },
+                "2": {
+                    "personName": "person 2 ",
+                    "contactNo": "9537407968",
+                    "relationship": "relation"
+                }
+            },
+            "preference": {
+                "location": "ahmedabad",
+                "noticePeriod": "25 days",
+                "expectedCTC": "600000",
+                "currentCTC": "420000",
+                "department": "designing"
+            },
+            "id": 3
+        }
+    ]
